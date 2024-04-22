@@ -9,4 +9,4 @@ Factorial
 			fact1=fact1*i;
 		}
 		return num1+" --> "+fact1; 
-	}```
+	}
