@@ -1,5 +1,5 @@
 # RestAPI
-##Factorial
+###Factorial
 ```
 	@GetMapping("/util/factorial/{num1}")
 	public String fact1(@PathVariable int num1) {
